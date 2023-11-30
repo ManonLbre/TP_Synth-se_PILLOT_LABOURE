@@ -1,3 +1,3 @@
-# TP_Synth-se_PILLOT_LABOURE
+# TP_Synthese_PILLOT_LABOURE
 
-Q1 :
+Q1 : 
